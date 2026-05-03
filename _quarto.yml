@@ -18,6 +18,10 @@ website:
             text: "Papers"
           - href: books.qmd
             text: "Books and book chapters"
+      - text: "Code"
+        menu:
+          - href: run_Mark_Mac_M1.qmd
+            text: "Mark on Apple Silicon"
       - icon: github
         href: https://github.com/jpvacher
       - icon: linkedin
