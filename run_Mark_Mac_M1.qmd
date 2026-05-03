@@ -9,7 +9,7 @@ execute:
 Jean-Pierre Vacher and Matthieu Boileau
 9/29/2021
 
-If you want to use [Mark(http://www.phidot.org/software/mark/index.html)] or [Rmark](http://www.phidot.org/software/mark/rmark/) on a Mac computer with an M chip, here's the procedure. We first developped it on a M1 laptop from 2020. 
+If you want to use [Mark](http://www.phidot.org/software/mark/index.html) or [Rmark](http://www.phidot.org/software/mark/rmark/) on a Mac computer with an M chip, here's the procedure. We first developped it on a M1 laptop from 2020. 
 
 Open a Terminal console from Rosetta (tick “open using rosetta” after clicking command+i on the Terminal icon from the Applications folder. The Terminal is in the Utilities subfolder).
 Architecture problem of the gfortran librairies, which are in arm64 on M1 chips and should be in x86_64 to run Mark.
