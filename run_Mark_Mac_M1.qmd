@@ -6,8 +6,8 @@ execute:
 
 # How to get Mark run on a Mac with M processor
 
-Jean-Pierre Vacher and Matthieu Boileau
-9/29/2021
+Jean-Pierre Vacher and [Matthieu Boileau](https://gitlab.math.unistra.fr/boileau)
+First version 9/29/2021
 
 If you want to use [Mark](http://www.phidot.org/software/mark/index.html) or [Rmark](http://www.phidot.org/software/mark/rmark/) on a Mac computer with an M chip, here's the procedure. We first developped it on a M1 laptop from 2020. 
 
