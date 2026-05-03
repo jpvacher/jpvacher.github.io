@@ -1,0 +1,59 @@
+---
+title: ""
+---
+
+Updated 2026-05-01
+
+
+# Books (2)
+
+[B2] Vacher J.-P., Geniez M. (2010). Les reptiles de France, Belgique, Luxembourg et
+Suisse. Biotope éditions, Mèze/Muséum national d’Histoire naturelle, Paris, 588 p.
+
+[B1] Thiriet J., Vacher J.-P. (2010). Atlas des amphibiens et reptiles d’Alsace. BUFO,
+Colmar/Strasbourg, 273 p.
+
+
+# Book chapters (10)
+
+[C10] Vacher J.-P., Miaud C. (2013). Amphibian declines and conservation in France. In
+Heatwole H. & Wilkinson J. (eds.). Amphibian Biology. Vol. 11 Status of Conservation and
+Decline of Amphibians: Eastern Hemisphere. Part 3 Western Europe. Pp. 74-86. Pelagic
+Publishing, Exeter.
+
+[C9] Marty C., Vacher J.-P. (2013). Status and Decline of the Amphibians of French
+Guiana. In Heatwole H. (eds.). Amphibian Biology. Vol. 9 Status of Decline of Amphibians:
+Western Hemisphere. Part 3 Venezuela, Guyana, Suriname and French Guiana. Pp. 281-297.
+Surrey Beatty & Sons.
+
+[C8] Vacher J.-P., Cheylan M., Lourdais O., Miaud C., Thirion J.-M. (2012). Menaces et
+conservation. In Lescure J., Massary de J.-C. (coords.). Atlas des Amphibiens et Reptiles
+de France. Pp. 41-56. Biotope, Mèze/Muséum national d’Histoire naturelle, Paris.
+
+[C7] Eggert C., Vacher J.-P. (2012). *Pelobates fuscus* (Laurenti, 1768). Pélobate brun.
+In Lescure J., Massary de J.-C. (coords.). Atlas des Amphibiens et Reptiles de France. Pp.
+102-103. Biotope, Mèze/Muséum national d’Histoire naturelle, Paris.
+
+[C6] Vacher J.-P., Cochard P.O. (2012). *Lacerta agilis* Linnaeus, 1758. Lézard des souches.
+In Lescure J., Massary de J.-C. (coords.). Atlas des Amphibiens et Reptiles de France. Pp.
+180-181. Biotope, Mèze/Muséum national d’Histoire naturelle, Paris.
+
+[C5] Cochard P.O., Vacher J.-P. (2012). *Lacerta bilineata* Daudin, 1802. Lézard vert
+occidental. In Lescure J., Massary de J.-C. (coords.). Atlas des Amphibiens et Reptiles de
+France. Pp. 182-183. Biotope, Mèze/Muséum national d’Histoire naturelle, Paris.
+
+[C4] Vacher J.-P., Ineich I. (2012). *Natrix maura* (Linnaeus, 1758). Couleuvre vipérine.
+In Lescure J., Massary de J.-C. (coords.). Atlas des Amphibiens et Reptiles de France. Pp.
+206-207. Biotope, Mèze/Muséum national d’Histoire naturelle, Paris.
+
+[C3] Vacher J.-P., Ineich I. (2012). *Natrix natrix* (Linnaeus, 1758). Couleuvre à collier. In
+Lescure J., Massary de J.-C. (coords.). Atlas des Amphibiens et Reptiles de France. Pp.
+208-209. Biotope, Mèze/Muséum national d’Histoire naturelle, Paris.
+
+[C2] Pottier G., Vacher J.-P. (2012). *Coronella girondica* (Daudin, 1803). Coronelle
+girondine. In Lescure J., Massary de J.-C. (coords.). Atlas des Amphibiens et Reptiles de
+France. Pp. 212-213. Biotope, Mèze/Muséum national d’Histoire naturelle, Paris.
+
+[C1] Vacher J.-P., Pichenot J. (2012). *Bombina bombina* (Linnaeus, 1761). Sonneur à
+ventre de feu. In Lescure J., Massary de J.-C. (coords.). Atlas des Amphibiens et Reptiles
+de France. Pp. 236-237. Biotope, Mèze/Muséum national d’Histoire naturelle, Paris.

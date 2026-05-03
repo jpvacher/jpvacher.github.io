@@ -1,0 +1,38 @@
+project:
+  type: website
+
+
+website:
+  title: "**Jean-Pierre Vacher**"
+  site-url: https://jpvacher.github.io/
+  page-footer: 
+    right: "Website designed with [Quarto](https://quarto.org/)"
+    left: "©Jean-Pierre Vacher 2026."
+  navbar:
+    right:
+      - text: "About"
+        href: about.qmd
+      - text: "Publications"
+        menu:
+          - href: papers.qmd
+            text: "Papers"
+          - href: books.qmd
+            text: "Books and book chapters"
+      - icon: github
+        href: https://github.com/jpvacher
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jean-pierre-vacher-75315225b/
+      - icon: bluesky
+        href: https://bsky.app/profile/jpvacher.bsky.social  
+    search: false
+
+format:
+  html:
+    lang: en
+    theme:
+      - cosmo
+    css: styles.css
+    toc: true
+
+
+
