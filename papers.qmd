@@ -6,15 +6,15 @@ Updated 2026-05-01
 
 # Articles in indexed journals with impact factor (17)
 
-[17] Dayon J., Conan A., Dehauts N., Fizesan A., Guenier C., Pille F., Szollosy S., Vacher
-J.-P., Vignon V., Miaud C. (2026). Combining telemetry and fluorescent pigments to
-study the use of terrestrial habitats by a declining amphibian, the common spadefoot toad
-(*Pelobates fuscus*). Amphibia-Reptilia, in press. IF : 1.3
-
-[16] Dufresnes C., Conan A., Coquis A., Michon A., Vacher J.-P., Ursenbacher S., Jablonski
+[17] Dufresnes C., Conan A., Coquis A., Michon A., Vacher J.-P., Ursenbacher S., Jablonski
 D. (2026). Mitochondrial tracing of amphibian introductions amid cyto-nuclear discordance :
 a case study of two allochtonous populations of green toads. Amphibia-Reptilia, in press.
 IF : 1.3
+
+[16] Dayon J., Conan A., Dehaut N., Fizesan A., Guenier C., Pille F., Szollosy S., Vacher
+J.-P., Vignon V., Miaud C. (2026). Combining telemetry and fluorescent pigments to
+study the use of terrestrial habitats by a declining amphibian, the common spadefoot toad
+(*Pelobates fuscus*). Amphibia-Reptilia, in press. IF : 1.3
 
 [15] Vacher J.-P., Kok P.J.K., Rodrigues M.T., Lima J.D., Hrbek T., Werneck F.P.,
 Manzi S., Thébaud C., Fouquet A. (2024). Diversification of the terrestrial frog genus

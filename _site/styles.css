@@ -1,0 +1,6 @@
+/* css styles */
+
+.navbar-dark, .navbar-light, .navbar {
+/*  background-image: url("./images/banner.jpg"); */
+  background-color: lightgrey;
+}
