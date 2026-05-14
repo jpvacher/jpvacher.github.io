@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://jpvacher.github.io/papers.html</loc>
+    <lastmod>2026-05-14T09:22:11.910Z</lastmod>
+  </url>
+  <url>
     <loc>https://jpvacher.github.io/about.html</loc>
     <lastmod>2026-05-10T08:59:44.388Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jpvacher.github.io/run_Mark_Mac_M1.html</loc>
+    <lastmod>2026-05-10T09:00:01.033Z</lastmod>
   </url>
   <url>
     <loc>https://jpvacher.github.io/books.html</loc>
@@ -10,14 +18,6 @@
   </url>
   <url>
     <loc>https://jpvacher.github.io/index.html</loc>
-    <lastmod>2026-05-10T09:00:04.794Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jpvacher.github.io/papers.html</loc>
-    <lastmod>2026-05-10T08:59:55.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jpvacher.github.io/run_Mark_Mac_M1.html</loc>
-    <lastmod>2026-05-10T09:00:01.033Z</lastmod>
+    <lastmod>2026-05-14T09:22:15.917Z</lastmod>
   </url>
 </urlset>
