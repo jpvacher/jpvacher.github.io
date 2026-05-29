@@ -2,7 +2,7 @@
 title: " "
 ---
 
-Updated 2026-05-14
+Updated 2026-05-29
 
 # Articles in indexed journals with impact factor (17)
 
@@ -93,9 +93,7 @@ IF : 0.97
 
 [35] **Vacher J.-P.**, Valentini A., Dayon J., Aumaître D. (2026). Découverte d’un nouveau
 taxon d’amphibien grâce à l’ADN environnemental : première mention de *Pelophylax*
-(*ridibindus*) *kurtmuelleri* (Gayda, 1940) (Amphibia, Anura, Ranidae) en Lorraine et mise
-à jour de la répartition dans le Grand Est. Bulletin de la Société d’Histoire naturelle de
-Colmar (submitted).
+(*ridibundus*) *kurtmuelleri* (Gayda, 1940) (Amphibia, Anura, Ranidae) en Lorraine. Bulletin de la Société d’Histoire naturelle de Colmar, 83 (1) : 1-5.
 
 [34] **Vacher J.-P.** (2025). Première mention de *Dolomedes plantarius* (Clerck, 1758)
 (Arachnida, Araneae, Pisauridae) en Lorraine et mise à jour de sa répartition en Alsace.
