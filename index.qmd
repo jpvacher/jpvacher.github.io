@@ -2,15 +2,20 @@
 title: ""
 ---
 
-Hello and welcome to my homepage. I'm an amphibian biologist based in northeastern France. Right now I work as a freelance researcher. I'm specialised in genetics and ecology statistics. During my PhD, I worked on evolution of Neotropical frogs under the supervision of [Antoine Fouquet](https://antoinefouquet.wordpress.com/) and [Christophe Thébaud](https://thebaud.weebly.com/). Now I focus on amphibians in northeastern France and neighbouring regions.
+Hello and welcome to my homepage. I'm an amphibian biologist based in northeastern France. I work as a scientific officer at [HYLA](https://hyla-asso.github.io/), and also I'm an associated senior lecturer at [university of Strasbourg](https://live.unistra.fr/). I'm specialised in genetics and ecology statistics. During my PhD, I worked on evolution of Neotropical frogs under the supervision of [Antoine Fouquet](https://antoinefouquet.wordpress.com/) and [Christophe Thébaud](https://thebaud.weebly.com/). Now I focus on amphibians in northeastern France and neighbouring regions.
 
 Throughout the years, I worked on various topics such as species diversification, biogeography, systematics, as well as conservation biology through population genetics and wildlife monitoring.
 
+
 <center>
 :::{layout-ncol=2}
-<img src="./images/jpv_fieldwork.jpg" height=200>
+<img src="./images/jeanpierre_vacher_fieldwork.jpg" width=300>
 
-<img src="./images/jpv_labo.jpg" height=200>
+<img src="./images/jeanpierre_vacher_labo.jpg" width=260>
+
+Field work: monitoring yellow-bellied toad
+
+Lab work: preparing PCR of amphibian barcoding
 
 :::
 </center>
