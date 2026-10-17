@@ -2,13 +2,13 @@
 title: ""
 ---
 
-Hello and welcome to my homepage. I'm an amphibian biologist based in northeastern France. I work as a scientific officer at [HYLA](https://hyla-asso.github.io/), and also I'm an associated senior lecturer at [university of Strasbourg](https://live.unistra.fr/). I'm specialised in genetics and ecology statistics. During my PhD, I worked on evolution of Neotropical frogs under the supervision of [Antoine Fouquet](https://antoinefouquet.wordpress.com/) and [Christophe Thébaud](https://thebaud.weebly.com/). Now I focus on amphibians in northeastern France and neighbouring regions.
+Hello and welcome to my homepage. I'm an amphibian biologist based in northeastern France. I work as a scientific officer at [HYLA](https://hyla-asso.github.io/), and also I'm an associated senior lecturer at the [LIVE]](https://live.unistra.fr/) lab in Strasbourg (France). I'm specialised in genetics and ecology statistics. During my PhD, I worked on evolution of Neotropical frogs under the supervision of [Antoine Fouquet](https://antoinefouquet.wordpress.com/) and [Christophe Thébaud](https://thebaud.weebly.com/). Now I focus on amphibians in northeastern France and neighbouring regions.
 
-Throughout the years, I worked on various topics such as species diversification, biogeography, systematics, as well as conservation biology through population genetics and wildlife monitoring.
+Throughout the years, I worked on various topics such as species delineation and diversification, biogeography, systematics, as well as conservation biology through population genetics and wildlife monitoring.
 
 My current research projects encompass two main topics:
 
-- How species at the edge of their range face global changes. For this, I explore spatial dynamics as well as variation of genetic diversity in populations of amphibians with contrasted natural history, i.e. edge vs. core of distribution, and natural vs. artificial habitats. Amphibians are rather good models for this question as they are very sensitive to climatic stressors, and most of them have poor dispersal capacities. As I live in a region with species at the limit of their range, and others at the core of their distribution, I don't have to go far to collect field data!
+- How species at the edge of their range face global changes. For this, I explore spatial dynamics as well as variation of genetic diversity in populations of amphibians with contrasted natural history, i.e. edge vs. core of distribution, and natural vs. artificial habitats. Amphibians are rather good models for this question as they are very sensitive to climatic stressors, and most of them have poor dispersal capacities. As I live in a region with species at the limit of their range and others at the core of their distribution, I don't have to go far to collect field data!
 
 Keywords: climate change. Adaptation. Spatial ecology. Genetic diversity. Amphibians.
 
@@ -24,7 +24,7 @@ Keywords: Invasion biology. Hybridization. Dynamic occupancy models. Amphibians.
 
 Field work: monitoring yellow-bellied toad
 
-Lab work: preparing PCR of amphibian barcoding
+Lab work: preparing PCR for amphibian barcoding
 
 :::
 </center>
